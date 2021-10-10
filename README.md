@@ -1,0 +1,2 @@
+# GaussanMatrixMetod
+Gaussan matrix metod
