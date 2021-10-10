@@ -1,2 +1,2 @@
-# GaussanMatrixMetod
-Gaussan matrix metod
+# KramerMatrixMetod
+Kramer matrix metod
